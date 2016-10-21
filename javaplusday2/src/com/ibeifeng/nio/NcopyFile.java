@@ -7,7 +7,7 @@ import java.nio.channels.FileChannel;
 
 public class NcopyFile {
 	public static void main(String[] args) throws Exception {
-		int i = 2;
+
 		// 创建文件输入输出流
 		FileInputStream fin = new FileInputStream("d:/test.txt");
 		FileOutputStream fos = new FileOutputStream("d:/test2.txt");
