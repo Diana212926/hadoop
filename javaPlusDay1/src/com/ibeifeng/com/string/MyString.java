@@ -2,7 +2,7 @@ package com.ibeifeng.com.string;
 
 public class MyString {
 	public static void main(String[] args) {
-		String string = "test";
+		String string = "test11";
 		String str1 = "hello";
 		String str2 = "hello"; // 直接引用，没有创建
 		String str3 = new String("hello");
