@@ -29,6 +29,7 @@ public class NcopyFile {
 		fos.close();
 		fic.close();
 		foc.close();
+		foc.close();
 
 	}
 }
